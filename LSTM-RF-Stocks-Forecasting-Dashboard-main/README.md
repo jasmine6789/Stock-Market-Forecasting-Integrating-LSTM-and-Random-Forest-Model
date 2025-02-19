@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the "Advanced LSTM-RF Stock Forecasting Dashboard" GitHub repository. This project combines the analytical power of Random Forest and LSTM neural networks to forecast stock market behaviors, providing an integrated solution for real-time and predictive financial analysis.
+Welcome to the "LSTM-RF Stock Forecasting Dashboard" GitHub repository. This project combines the analytical power of Random Forest and LSTM neural networks to forecast stock market behaviors, providing an integrated solution for real-time and predictive financial analysis.
 
 
 ### Inspiration Behind the Project
